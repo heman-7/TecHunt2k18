@@ -16,7 +16,7 @@ After giving the correct solution of given questions and solving series of clues
 Download the apk from the link-
 http://tiny.cc/uu69ry
 
-This android app was made for the event 'Technical Hunt' in Zealicon 2018 - the AnnualFest of JSSATE, Noida.
+This android app was made for the event 'Technical Hunt' in Zealicon 2018 - the Annual Fest of JSSATE, Noida.
 
 ![Screenshot_1 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr1.png "Screenshots")
 ![Screenshot_2 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr2.png "Screenshots")
