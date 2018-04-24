@@ -13,5 +13,7 @@ For the location question, the team has to identify the location from the clues 
 An answer to this question will be a four digit code which will be present at the location subtly defined in the question.
 After giving the correct solution of given questions and solving series of clues, teams will move to next round.
 
-Download the apk from the below link-
+Download the apk from the link-
 http://tiny.cc/uu69ry
+
+This android app was made for the event 'Technical Hunt' in Zealicon 2018 - the AnnualFest of JSSATE, Noida.
