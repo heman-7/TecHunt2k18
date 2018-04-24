@@ -18,7 +18,7 @@ http://tiny.cc/uu69ry
 
 This android app was made for the event 'Technical Hunt' in Zealicon 2018 - the Annual Fest of JSSATE, Noida.
 
-![Screenshot_1 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr1.png "Screenshots")
-![Screenshot_2 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr2.png "Screenshots")
-![Screenshot_3 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr3.png "Screenshots")
+![Screenshot_1 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr1.png "Screenshot")
+![Screenshot_2 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr2.png "Screenshot")
+![Screenshot_3 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr3.png "Screenshot")
 
