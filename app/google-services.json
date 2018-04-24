@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "775998109038",
+    "firebase_url": "https://techunt-8ae43.firebaseio.com",
+    "project_id": "techunt-8ae43",
+    "storage_bucket": "techunt-8ae43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775998109038:android:8165d83eed98c685",
+        "android_client_info": {
+          "package_name": "com.lazyass.heman.techunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775998109038-l6aihppug443fjpdt9pgsc7uh53b9spj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKVeN8byegHvcg-I3zK0N3_TMunmkw53A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
