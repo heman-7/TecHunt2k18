@@ -15,6 +15,8 @@ After giving the correct solution of given questions and solving series of clues
 
 This android app was made for the event 'Technical Hunt' in Zealicon 2018 - the Annual Fest of JSSATE, Noida.
 
+Firebase was used in the backend for storing the data to track the progress of the teams participating
+
 ![Screenshot_1 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr1.png "Screenshot")
 ![Screenshot_2 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr2.png "Screenshot")
 ![Screenshot_3 of the app](https://github.com/heman-7/TecHunt2k18/blob/master/Scr3.png "Screenshot")
